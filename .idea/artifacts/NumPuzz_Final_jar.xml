@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NumPuzz_Final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NumPuzz_Final_jar</output-path>
+    <root id="archive" name="NumPuzz_Final.jar">
+      <element id="module-output" name="NumPuzz_Final" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
